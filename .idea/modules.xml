@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/collection-app/collection-app.iml" filepath="$PROJECT_DIR$/collection-app/collection-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/collection-map-stream-app/collection-map-stream-app.iml" filepath="$PROJECT_DIR$/collection-map-stream-app/collection-map-stream-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day02-oop/day02-oop.iml" filepath="$PROJECT_DIR$/day02-oop/day02-oop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day04-api/day04-api.iml" filepath="$PROJECT_DIR$/day04-api/day04-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day04-test/day04-test.iml" filepath="$PROJECT_DIR$/day04-test/day04-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day05-api/day05-api.iml" filepath="$PROJECT_DIR$/day05-api/day05-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oop-app1/oop-app1.iml" filepath="$PROJECT_DIR$/oop-app1/oop-app1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oop-app3/oop-app3.iml" filepath="$PROJECT_DIR$/oop-app3/oop-app3.iml" />
+    </modules>
+  </component>
+</project>
